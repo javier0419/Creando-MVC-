@@ -1,0 +1,11 @@
+D:\upds\Inteligencia Artificial\mvcProyectoWeb.Utiidades\bin\Debug\net8.0\mvcProyectoWeb.Utiidades.deps.json
+D:\upds\Inteligencia Artificial\mvcProyectoWeb.Utiidades\bin\Debug\net8.0\mvcProyectoWeb.Utiidades.dll
+D:\upds\Inteligencia Artificial\mvcProyectoWeb.Utiidades\bin\Debug\net8.0\mvcProyectoWeb.Utiidades.pdb
+D:\upds\Inteligencia Artificial\mvcProyectoWeb.Utiidades\obj\Debug\net8.0\mvcProyectoWeb.Utiidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\upds\Inteligencia Artificial\mvcProyectoWeb.Utiidades\obj\Debug\net8.0\mvcProyectoWeb.Utiidades.AssemblyInfoInputs.cache
+D:\upds\Inteligencia Artificial\mvcProyectoWeb.Utiidades\obj\Debug\net8.0\mvcProyectoWeb.Utiidades.AssemblyInfo.cs
+D:\upds\Inteligencia Artificial\mvcProyectoWeb.Utiidades\obj\Debug\net8.0\mvcProyectoWeb.Utiidades.csproj.CoreCompileInputs.cache
+D:\upds\Inteligencia Artificial\mvcProyectoWeb.Utiidades\obj\Debug\net8.0\mvcProyectoWeb.Utiidades.dll
+D:\upds\Inteligencia Artificial\mvcProyectoWeb.Utiidades\obj\Debug\net8.0\refint\mvcProyectoWeb.Utiidades.dll
+D:\upds\Inteligencia Artificial\mvcProyectoWeb.Utiidades\obj\Debug\net8.0\mvcProyectoWeb.Utiidades.pdb
+D:\upds\Inteligencia Artificial\mvcProyectoWeb.Utiidades\obj\Debug\net8.0\ref\mvcProyectoWeb.Utiidades.dll

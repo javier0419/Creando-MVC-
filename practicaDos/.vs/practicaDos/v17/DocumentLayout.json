@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\upds\\Inteligencia Artificial\\practicaDos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75DE093A-4AD1-4B00-B584-01E95A4E1C65}|practicaDos.csproj|d:\\upds\\inteligencia artificial\\practicados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DE093A-4AD1-4B00-B584-01E95A4E1C65}|practicaDos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DE093A-4AD1-4B00-B584-01E95A4E1C65}|practicaDos.csproj|d:\\upds\\inteligencia artificial\\practicados\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DE093A-4AD1-4B00-B584-01E95A4E1C65}|practicaDos.csproj|solutionrelative:areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C29415-0066-4874-95E5-BFF2AF93C9AA}|..\\mvcProyectoWeb.Utiidades\\mvcProyectoWeb.Utiidades.csproj|d:\\upds\\inteligencia artificial\\mvcproyectoweb.utiidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DE093A-4AD1-4B00-B584-01E95A4E1C65}|practicaDos.csproj|d:\\upds\\inteligencia artificial\\practicados\\areas\\cliente\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75DE093A-4AD1-4B00-B584-01E95A4E1C65}|practicaDos.csproj|solutionrelative:areas\\cliente\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DE093A-4AD1-4B00-B584-01E95A4E1C65}|practicaDos.csproj|d:\\upds\\inteligencia artificial\\practicados\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75DE093A-4AD1-4B00-B584-01E95A4E1C65}|practicaDos.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\practicaDos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\practicaDos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:06:03.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\practicaDos\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\practicaDos\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T01:01:06.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\practicaDos\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\practicaDos\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T01:00:59.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\practicaDos\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Cliente\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\practicaDos\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Cliente\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:57:12.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\upds\\Inteligencia Artificial\\mvcProyectoWeb.Utiidades\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\mvcProyectoWeb.Utiidades\\Class1.cs",
+              "ToolTip": "D:\\upds\\Inteligencia Artificial\\mvcProyectoWeb.Utiidades\\Class1.cs",
+              "RelativeToolTip": "..\\mvcProyectoWeb.Utiidades\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:40:38.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
